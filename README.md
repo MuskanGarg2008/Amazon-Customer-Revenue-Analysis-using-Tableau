@@ -1,9 +1,7 @@
 <h1 align="center"> 📊 Amazon Customer & Revenue Analysis using Tableau </h1>
 
 <p align="center"> 
-<em> An interactive and visually compelling Tableau dashboard that analyzes Amazon's revenue performance across multiple dimensions—including category-wise revenue, customer behavior, regional contribution, order status distribution, and gender-wise performance.
-
-This project showcases end-to-end data handling: from dataset transformation in Excel to building a polished, insight-driven Tableau dashboard suitable for business decision-making.</em>
+<em> An interactive and visually compelling Tableau dashboard that analyzes Amazon's revenue performance across multiple dimensions—including category-wise revenue, customer behavior, regional contribution, order status distribution, and gender-wise performance.</em>
 </p>
 
 ---
@@ -29,8 +27,40 @@ It is designed to help answer key business questions such as:
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/sales dashboard.jpg" alt="Dashboard Preview" width="800">
+  <img src="Amazon Customer & Revenue Analysis using Tableau/images/dashboard.JPG" alt="Dashboard Preview" width="800">
 </p>
+
+---
+
+## 🛠 Features
+
+- Fully interactive Tableau dashboard  
+- Dropdown filters for category, region, and customer demographics  
+- Clear KPIs for quick decision-making  
+- Clean, bold, and intuitive design  
+- Ready for business reporting or portfolio presentation  
+
+---
+
+## ⭐ Key Insights
+
+The dashboard highlights several data-driven observations, including:
+
+- Among all product segments, **Clothing** generates the **highest number of orders**
+- **Female customers** place significantly **more orders** than male customers
+- Despite having fewer orders than Clothing, the **Beauty category** contributes **high overall revenue**, suggesting higher price points and strong demand
+
+---
+
+## ⭐ Why This Project Matters
+
+This dashboard demonstrates practical skills in:
+
+- Data cleaning  
+- Business analytics  
+- Dashboard design  
+- Insight summarization  
+- Storytelling using data visuals  
 
 ---
 
@@ -53,44 +83,12 @@ It is designed to help answer key business questions such as:
 
 ---
 
-## ⭐ Key Insights
-
-The dashboard highlights several data-driven observations, including:
-
-- Among all product segments, **Clothing** generates the **highest number of orders**
-- **Female customers** place significantly **more orders** than male customers
-- Despite having fewer orders than Clothing, the **Beauty category** contributes **high overall revenue**, suggesting higher price points and strong demand
-
----
-
-## 🛠 Features
-
-- Fully interactive Tableau dashboard  
-- Dropdown filters for category, region, and customer demographics  
-- Clear KPIs for quick decision-making  
-- Clean, bold, and intuitive design  
-- Ready for business reporting or portfolio presentation  
-
----
-
 ## ▶ How to Use
 
 1. Clone the repository  
 2. Open `Amazon Customer & Revenue Analysis.twb` in Tableau  
 3. Ensure the dataset file path is correct  
 4. Enjoy exploring the insights!
-
----
-
-## ⭐ Why This Project Matters
-
-This dashboard demonstrates practical skills in:
-
-- Data cleaning  
-- Business analytics  
-- Dashboard design  
-- Insight summarization  
-- Storytelling using data visuals  
 
 ---
 
